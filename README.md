@@ -93,7 +93,7 @@
   <a href="dbui00025@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/duong-bu-6232a12a1/" target="_blank">
+  <a href="[https://www.linkedin.com/in/duong-bu-6232a12a1/](https://www.linkedin.com/in/v%C4%83n-d%C6%B0%C6%A1ng-6232a12a1/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
