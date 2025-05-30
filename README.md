@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://res.cloudinary.com/dlpxfxpdn/image/upload/v1733045689/noFilter.webp"  />
+
 
 ###
 
